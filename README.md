@@ -6,7 +6,7 @@ Projeto desenvolvido para estudo.
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Link para teste: bootstrappage-onbtc.netlify.app
+Link para teste: https://bootstrappage-onbtc.netlify.app/
 
 
 
